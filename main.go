@@ -8,30 +8,22 @@ import (
 
 var messages = [][]string{
 	{
-		"The world itself's",
+		"The fourth office is that of the deacons, who have to do with 1 ",
+		" a calf-skin filled with straw, supposed to induce the cow to give milk freely;",
+		"hence a term of contempt for one who is used as a dummy for the advantage of another.",
 		"just one big hoax.",
-		"Spamming each other with our",
-		"running commentary of bullshit,",
 	},
 	{
-		"but with our things, our property, our money.",
-		"I'm not saying anything new.",
-		"We all know why we do this,",
-		"not because Hunger Games",
-		"books make us happy,",
+		"The fourth office is that of the deacons, who have to do with 1 ",
+		" a calf-skin filled with straw, supposed to induce the cow to give milk freely;",
+		"hence a term of contempt for one who is used as a dummy for the advantage of another.",
+		"just one big hoax.",
 	},
 	{
-		"masquerading as insight, our social media",
-		"faking as intimacy.",
-		"Or is it that we voted for this?",
-		"Not with our rigged elections,",
-	},
-	{
-		"but because we wanna be sedated.",
-		"Because it's painful not to pretend,",
-		"because we're cowards.",
-		"- Elliot Alderson",
-		"Mr. Robot",
+		"The fourth office is that of the deacons, who have to do with 1 ",
+		" a calf-skin filled with straw, supposed to induce the cow to give milk freely;",
+		"hence a term of contempt for one who is used as a dummy for the advantage of another.",
+		"just one big hoax.",
 	},
 }
 
